@@ -20,3 +20,5 @@ Spring boot를 이용한 온라인 서점 플랫폼 입니다.
 | 엘라스틱 | | | |
 | 엘라스틱 | | | |
 
+## ERD Cloud
+https://www.erdcloud.com/team/gxWqy4hXfkZrX27Sc
