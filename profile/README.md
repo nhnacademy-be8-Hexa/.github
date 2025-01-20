@@ -12,7 +12,7 @@ Spring boot를 이용한 온라인 서점 플랫폼 입니다.
 | | 이미지 저장 <br/> (Object Storage) | CI/CD <br/> (github action) | 민감정보 보안 |
 | | 포인트 <br/> 페이지 구현 | 도서 CRUD <br/> 도서 조회 top 5  | 이미지 저장 <br/> (Local,ImageManager) | 
 | | 메세지 큐 <br/> (RabbitMQ) | 회원 검색 <br/> 회원 정렬 <br/> 회원 상세보기 <br/> 회원 정보 수정 | Oauth2, JWT(나머지) | 
-| | | 주문 상세 조회, 주문 관리 페이지 | Spring batch <br/> (사용자 등급 조정) | 
+| | | 주문 상세 조회<br/> 주문 상태 관리 | Spring batch <br/> (사용자 등급 조정) | 
 
 |이규빈|조나현|조승주|채노아|
 |:---:|:---:|:---:|:---:|
