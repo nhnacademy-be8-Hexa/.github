@@ -1,4 +1,6 @@
-##[Hexa Bookstore](https://hexabook.shop/)
+## Hexa Bookstore
+
+[Hexa Bookstore 주소](https://hexabook.shop/)
 
 ## Service Introduction
 Spring boot를 이용한 온라인 서점 플랫폼 입니다.
