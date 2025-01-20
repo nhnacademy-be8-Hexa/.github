@@ -22,3 +22,15 @@ Spring boot를 이용한 온라인 서점 플랫폼 입니다.
 
 ## ERD Cloud
 https://www.erdcloud.com/team/gxWqy4hXfkZrX27Sc
+
+
+## CI / CD
+
+![image](https://github.com/nhnacademy-be8-Hexa/.github/blob/d923873a574aaae3914b34563d7c287842b9ac6c/profile/CI_CD.png)
+
+
+## System Architecture
+
+![image](https://github.com/nhnacademy-be8-Hexa/.github/blob/main/profile/Architecture.png?raw=true)
+
+
