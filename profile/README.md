@@ -14,11 +14,11 @@ Spring boot를 이용한 온라인 서점 플랫폼 입니다.
 
 |이규빈|조나현|조승주|채노아|
 |:---:|:---:|:---:|:---:|
-|<img style="height: 150px; width: 150px;" src="https://avatars.githubusercontent.com/u/121775765?v=4"/>|<img style="height: 150px; width: 150px;" src="https://avatars.githubusercontent.com/u/95014596?v=4"/>|<img style="height: 150px; width: 150px;" src="https://avatars.githubusercontent.com/u/168888761?v=4"/>|<img style="height: 150px; width: 150px;" src="https://avatars.githubusercontent.com/u/104444048?v=4"/>|
-| ELK | | | |
-| 주문 | | | |
-| 카테고리 | | | |
+|<img style="height: 150px; width: 150px;" src="https://avatars.githubusercontent.com/u/121775765?v=4"/>|<img style="height: 150px; width: 150px;" src="https://avatars.githubusercontent.com/u/95014596?v=4"/>|<img style="height: 150px; width: 150px;" src="https://github.com/user-attachments/assets/f4b6b34f-d4c5-40f9-bbad-d4a4de956796"/>|<img style="height: 150px; width: 150px;" src="https://avatars.githubusercontent.com/u/104444048?v=4"/>|
+| ELK | | 로그인 JWT<br/>Spring Security | |
+| 카테고리 | | 주문, 결제<br/>Toss Payments API | |
 | 도서 | | | |
+|  | | | |
 
 ## ERD Cloud
 https://www.erdcloud.com/team/gxWqy4hXfkZrX27Sc
