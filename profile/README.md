@@ -15,10 +15,10 @@ Spring boot를 이용한 온라인 서점 플랫폼 입니다.
 |이규빈|조나현|조승주|채노아|
 |:---:|:---:|:---:|:---:|
 |<img style="height: 150px; width: 150px;" src="https://avatars.githubusercontent.com/u/121775765?v=4"/>|<img style="height: 150px; width: 150px;" src="https://avatars.githubusercontent.com/u/95014596?v=4"/>|<img style="height: 150px; width: 150px;" src="https://avatars.githubusercontent.com/u/168888761?v=4"/>|<img style="height: 150px; width: 150px;" src="https://avatars.githubusercontent.com/u/104444048?v=4"/>|
-| 엘라스틱 | | | |
-| 엘라스틱 | | | |
-| 엘라스틱 | | | |
-| 엘라스틱 | | | |
+| ELK | | | |
+| 주문 | | | |
+| 카테고리 | | | |
+| 도서 | | | |
 
 ## ERD Cloud
 https://www.erdcloud.com/team/gxWqy4hXfkZrX27Sc
