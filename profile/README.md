@@ -7,10 +7,10 @@ Spring boot를 이용한 온라인 서점 플랫폼 입니다.
 |고은|김성재|김수아|안민재|
 |:---:|:---:|:---:|:---:|
 |<img style="height: 150px; width: 150px;" src="https://avatars.githubusercontent.com/u/133118296?v=4"/>|<img style="height: 150px; width: 150px;" src="https://avatars.githubusercontent.com/u/104749176?v=4"/>|<img style="height: 150px; width: 150px;" src="https://avatars.githubusercontent.com/u/144919371?v=4"/>|<img style="height: 150px; width: 150px;" src="https://avatars.githubusercontent.com/u/180361980?v=4"/>|
-| | | | 리소스 암호화 |
-| | | | 이미지 저장 | 
-| | | | Oauth2, JWT | 
-| | | | Spring batch | 
+| | 이미지 저장 | CI/CD | 리소스 암호화 |
+| | 포인트 | 도서 | 이미지 저장 | 
+| | 메세지 큐 | 회원 | Oauth2, JWT | 
+| | | 주문 | Spring batch | 
 
 |이규빈|조나현|조승주|채노아|
 |:---:|:---:|:---:|:---:|
