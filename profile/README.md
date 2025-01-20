@@ -18,8 +18,8 @@ Spring boot를 이용한 온라인 서점 플랫폼 입니다.
 |:---:|:---:|:---:|:---:|
 |<img style="height: 150px; width: 150px;" src="https://avatars.githubusercontent.com/u/121775765?v=4"/>|<img style="height: 150px; width: 150px;" src="https://avatars.githubusercontent.com/u/95014596?v=4"/>|<img style="height: 150px; width: 150px;" src="https://avatars.githubusercontent.com/u/168888761?s=400&u=fe82e7f81db55f64ac90560a5332e47f706563dc&v=4"/>|<img style="height: 150px; width: 150px;" src="https://avatars.githubusercontent.com/u/104444048?v=4"/>|
 | ELK Stack | CI/CD </br>(무중단 배포)| 로그인 JWT<br/>Spring Security | 사용자 휴면 전환<br/>(Spring Batch) |
-| 카테고리 | 장바구니 | 주문, 결제<br/>Toss Payments API | CI/CD<br/>(Shell Script, <br/> Health Check) |
-| 도서 api </br> 외부 도서 검색 </br> 도서 좋아요 | 태그 | | 리뷰(이미지 포함) |
+| 카테고리 | 장바구니 | 주문 | CI/CD<br/>(Shell Script, <br/> Health Check) |
+| 도서 api </br> 외부 도서 검색 </br> 도서 좋아요 | 태그 | 결제, 환불<br/>Toss Payments API | 리뷰(이미지 포함) |
 | spring cloud | testcode (front-end) | | API 명세(Rest Docs) |
 
 ## ERD Cloud
