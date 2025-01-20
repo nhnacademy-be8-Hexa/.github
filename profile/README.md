@@ -6,6 +6,8 @@
 Spring boot를 이용한 온라인 서점 플랫폼 입니다.
 
 ## 팀원
+<div align="center">
+
 |고은|김성재|김수아|안민재|
 |:---:|:---:|:---:|:---:|
 |<img style="height: 150px; width: 150px;" src="https://avatars.githubusercontent.com/u/133118296?v=4"/>|<img style="height: 150px; width: 150px;" src="https://avatars.githubusercontent.com/u/104749176?v=4"/>|<img style="height: 150px; width: 150px;" src="https://avatars.githubusercontent.com/u/144919371?v=4"/>|<img style="height: 150px; width: 150px;" src="https://avatars.githubusercontent.com/u/180361980?v=4"/>|
@@ -21,6 +23,8 @@ Spring boot를 이용한 온라인 서점 플랫폼 입니다.
 | 카테고리 | 장바구니 | 주문하기 (주문서 작성) | CI/CD<br/>(Shell Script, <br/> Health Check) |
 | 도서 api </br> 외부 도서 검색 </br> 도서 좋아요 | 태그 | 결제, 환불<br/>Toss Payments API | 리뷰(이미지 포함) |
 | spring cloud | testcode (front-end) | | API 명세(Rest Docs) |
+
+</div>
 
 ## ERD Cloud
 https://www.erdcloud.com/team/gxWqy4hXfkZrX27Sc
