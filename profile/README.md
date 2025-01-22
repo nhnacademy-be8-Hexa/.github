@@ -85,7 +85,7 @@ https://www.erdcloud.com/team/gxWqy4hXfkZrX27Sc
 - Spring Batch 사용
   
 ### 결제내역 별 등급 수정
-- 담당자: 안민재
+- 담당자: 안민재
 - 매 자정마다 결제내역에 대해 등급 수정
   
 ### 배송 상태 변경
