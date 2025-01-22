@@ -1,4 +1,3 @@
-## Hexa Bookstore
 
 [Hexa Bookstore 주소](https://hexabook.shop/)
 
@@ -42,7 +41,7 @@ https://www.erdcloud.com/team/gxWqy4hXfkZrX27Sc
 
 ## System Architecture (NHN CLOUD)
 
-![image](https://github.com/nhnacademy-be8-Hexa/.github/blob/main/profile/Architecture.png?raw=true)
+![image](https://github.com/nhnacademy-be8-Hexa/.github/blob/main/profile/Architecture(nhncloud).png?raw=true)
 
 ## System Architecture (Local)
 
