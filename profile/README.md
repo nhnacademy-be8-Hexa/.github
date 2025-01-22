@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/430aa4d6-68d3-402d-8546-35a7955a9ccb)## Hexa Bookstore
+## Hexa Bookstore
 
 [Hexa Bookstore 주소](https://hexabook.shop/)
 
@@ -46,7 +46,7 @@ https://www.erdcloud.com/team/gxWqy4hXfkZrX27Sc
 
 ## System Architecture (Local)
 
-![image](https://github.com/nhnacademy-be8-Hexa/.github/blob/main/profile/Hexa%20Local%20%E1%84%87%E1%85%A5%E1%84%8C%E1%85%A5%E1%86%AB.drawio.png?raw=true)
+![image](https://github.com/user-attachments/assets/430aa4d6-68d3-402d-8546-35a7955a9ccb)
 
 > 1. 클라이언트의 요청은 NginX를 통해서 들어오고, 로드밸런서에서 Round Robin 방식으로 2개의 Front Server에 순서대로 보냅니다.(Sticky Session 적용)
 > 2. Front Server
