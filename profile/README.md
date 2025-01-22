@@ -65,7 +65,7 @@ https://www.erdcloud.com/team/gxWqy4hXfkZrX27Sc
 
 ### 프로젝트 관리
 - 담당자: 김수아, 안민재, 이규빈, 조나현, 조승주, 채노아
-- CI/CD
+- CI/CD
   - Nginx 및 Netflix Eureka 로드밸런싱 설정 후 Health Check를 응용한 무중단 배포 구현
 - Redis Session
   - Redis 환경 설정
