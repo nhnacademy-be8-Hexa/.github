@@ -1,5 +1,9 @@
 
-[Hexa Bookstore 주소](https://hexabook.shop/)
+## Hexa Book Store 주소
+
+[<s>구주소 : https://hexabook.shop</s>](https://hexabook.shop)
+<br>
+[현주소 : https://hexabook.store](https://hexabook.store)
 
 ## Service Introduction
 Spring boot를 이용한 온라인 서점 플랫폼 입니다.
@@ -45,7 +49,7 @@ https://www.erdcloud.com/team/gxWqy4hXfkZrX27Sc
 
 ## System Architecture (Local)
 
-![image](https://github.com/user-attachments/assets/430aa4d6-68d3-402d-8546-35a7955a9ccb)
+![image](https://github.com/nhnacademy-be8-Hexa/.github/blob/main/profile/Architecture(local).png?raw=true)
 
 > 1. 클라이언트의 요청은 NginX를 통해서 들어오고, 로드밸런서에서 Round Robin 방식으로 2개의 Front Server에 순서대로 보냅니다.(Sticky Session 적용)
 > 2. Front Server
