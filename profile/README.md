@@ -1,12 +1,12 @@
+## Service Introduction
+Spring boot를 이용한 온라인 서점 플랫폼 입니다.
+
 
 ## Hexa Book Store 주소
 
 [<s>구주소 : https://hexabook.shop</s>](https://hexabook.shop)
 <br>
 [현주소 : https://hexabook.store](https://hexabook.store)
-
-## Service Introduction
-Spring boot를 이용한 온라인 서점 플랫폼 입니다.
 
 ## 팀원
 <div align="center">
