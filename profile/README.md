@@ -64,6 +64,16 @@ https://www.erdcloud.com/team/gxWqy4hXfkZrX27Sc
 >   -	Auth Server에서는 JWT를 활용하여 인증 요청이 오는 경우, 토큰 인증, 토큰 재발급을 시행합니다.
 >   -	Shop Server에서 리뷰, 도서 저장 등 이미지 저장 요청이 오는 경우 NHN Cloud에 업로드합니다.
 
+## RestDocs
+
+### Shopping mall API  
+
+
+### Auth API
+<a href="https://nhnacademy-be8-hexa.github.io/Hexa-Docs-Auth" target="_blank">
+  Auth
+</a>
+
 ## 주요 기능
 
 ### 프로젝트 관리
