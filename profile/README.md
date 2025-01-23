@@ -68,9 +68,136 @@ https://www.erdcloud.com/team/gxWqy4hXfkZrX27Sc
 
 ### Shopping mall API  
 
+### Shopping mall API  
+
+<a href="https://nhnacademy-be8-hexa.github.io/Hexa-Docs-Shoppingmall/Rating.html" target="_blank">
+  1. Rating
+</a><br>
+
+<a href="https://nhnacademy-be8-hexa.github.io/Hexa-Docs-Shoppingmall/address.html" target="_blank">
+  2. Address
+</a><br>
+
+<a href="https://nhnacademy-be8-hexa.github.io/Hexa-Docs-Shoppingmall/aladin.html" target="_blank">
+  3. Aladin
+</a><br>
+
+<a href="https://nhnacademy-be8-hexa.github.io/Hexa-Docs-Shoppingmall/author.html" target="_blank">
+  4. Author
+</a><br>
+
+<a href="https://nhnacademy-be8-hexa.github.io/Hexa-Docs-Shoppingmall/book.html" target="_blank">
+  5. Book
+</a><br>
+
+<a href="https://nhnacademy-be8-hexa.github.io/Hexa-Docs-Shoppingmall/bookStatus.html" target="_blank">
+  6. Book Status
+</a><br>
+
+<a href="https://nhnacademy-be8-hexa.github.io/Hexa-Docs-Shoppingmall/booktag.html" target="_blank">
+  7. Book Tag
+</a><br>
+
+<a href="https://nhnacademy-be8-hexa.github.io/Hexa-Docs-Shoppingmall/cart.html" target="_blank">
+  8. Cart
+</a><br>
+
+<a href="https://nhnacademy-be8-hexa.github.io/Hexa-Docs-Shoppingmall/category.html" target="_blank">
+  9. Category
+</a><br>
+
+<a href="https://nhnacademy-be8-hexa.github.io/Hexa-Docs-Shoppingmall/delivery.html" target="_blank">
+  10. Delivery
+</a><br>
+
+<a href="https://nhnacademy-be8-hexa.github.io/Hexa-Docs-Shoppingmall/deliveryCostPolicy.html" target="_blank">
+  11. Delivery Cost Policy
+</a><br>
+
+<a href="https://nhnacademy-be8-hexa.github.io/Hexa-Docs-Shoppingmall/elasticsearch.html" target="_blank">
+  12. Elasticsearch
+</a><br>
+
+<a href="https://nhnacademy-be8-hexa.github.io/Hexa-Docs-Shoppingmall/guestOrder.html" target="_blank">
+  13. Guest Order
+</a><br>
+
+<a href="https://nhnacademy-be8-hexa.github.io/Hexa-Docs-Shoppingmall/like.html" target="_blank">
+  14. Like
+</a><br>
+
+<a href="https://nhnacademy-be8-hexa.github.io/Hexa-Docs-Shoppingmall/member.html" target="_blank">
+  15. Member
+</a><br>
+
+<a href="https://nhnacademy-be8-hexa.github.io/Hexa-Docs-Shoppingmall/memberCoupon.html" target="_blank">
+  16. Member Coupon
+</a><br>
+
+<a href="https://nhnacademy-be8-hexa.github.io/Hexa-Docs-Shoppingmall/memberReport.html" target="_blank">
+  17. Member Report
+</a><br>
+
+<a href="https://nhnacademy-be8-hexa.github.io/Hexa-Docs-Shoppingmall/memberStatus.html" target="_blank">
+  18. Member Status
+</a><br>
+
+<a href="https://nhnacademy-be8-hexa.github.io/Hexa-Docs-Shoppingmall/order.html" target="_blank">
+  19. Order
+</a><br>
+
+<a href="https://nhnacademy-be8-hexa.github.io/Hexa-Docs-Shoppingmall/orderBook.html" target="_blank">
+  20. Order Book
+</a><br>
+
+<a href="https://nhnacademy-be8-hexa.github.io/Hexa-Docs-Shoppingmall/orderStatus.html" target="_blank">
+  21. Order Status
+</a><br>
+
+<a href="https://nhnacademy-be8-hexa.github.io/Hexa-Docs-Shoppingmall/payment.html" target="_blank">
+  22. Payment
+</a><br>
+
+<a href="https://nhnacademy-be8-hexa.github.io/Hexa-Docs-Shoppingmall/pointDetail.html" target="_blank">
+  23. Point Detail
+</a><br>
+
+<a href="https://nhnacademy-be8-hexa.github.io/Hexa-Docs-Shoppingmall/pointPolicy.html" target="_blank">
+  24. Point Policy
+</a><br>
+
+<a href="https://nhnacademy-be8-hexa.github.io/Hexa-Docs-Shoppingmall/publisher.html" target="_blank">
+  25. Publisher
+</a><br>
+
+<a href="https://nhnacademy-be8-hexa.github.io/Hexa-Docs-Shoppingmall/returns.html" target="_blank">
+  26. Returns
+</a><br>
+
+<a href="https://nhnacademy-be8-hexa.github.io/Hexa-Docs-Shoppingmall/returnsReason.html" target="_blank">
+  27. Returns Reason
+</a><br>
+
+<a href="https://nhnacademy-be8-hexa.github.io/Hexa-Docs-Shoppingmall/review.html" target="_blank">
+  28. Review
+</a><br>
+
+<a href="https://nhnacademy-be8-hexa.github.io/Hexa-Docs-Shoppingmall/tag.html" target="_blank">
+  29. Tag
+</a><br>
+
+<a href="https://nhnacademy-be8-hexa.github.io/Hexa-Docs-Shoppingmall/wrappingPaperAPI.html" target="_blank">
+  30. Wrapping Paper API
+</a><br>
+
+
+<br>
 
 ### Auth API
-  [1. Refresh Token Black List](https://nhnacademy-be8-hexa.github.io/Hexa-Docs-Auth/refreshTokenBlackList.html)
+
+<a href="https://nhnacademy-be8-hexa.github.io/Hexa-Docs-Auth/refreshTokenBlackList.html" target="_blank">
+  1. Refresh Token Black List
+</a>
 
 <br>
 
