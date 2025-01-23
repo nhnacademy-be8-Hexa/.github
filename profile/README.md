@@ -68,8 +68,6 @@ https://www.erdcloud.com/team/gxWqy4hXfkZrX27Sc
 
 ### Shopping mall API  
 
-### Shopping mall API  
-
 <a href="https://nhnacademy-be8-hexa.github.io/Hexa-Docs-Shoppingmall/Rating.html" target="_blank">
   1. Rating
 </a><br>
