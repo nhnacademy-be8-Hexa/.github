@@ -70,9 +70,7 @@ https://www.erdcloud.com/team/gxWqy4hXfkZrX27Sc
 
 
 ### Auth API
-<a href="https://nhnacademy-be8-hexa.github.io/Hexa-Docs-Auth/refreshTokenBlackList.html" target="_blank">
-  1. Refresh Token Black List
-</a>
+  [1. Refresh Token Black List](https://nhnacademy-be8-hexa.github.io/Hexa-Docs-Auth/refreshTokenBlackList.html)
 
 <br>
 
