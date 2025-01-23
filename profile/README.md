@@ -316,6 +316,10 @@ https://www.erdcloud.com/team/gxWqy4hXfkZrX27Sc
 - 담당자: 이규빈, 채노아
 - 카테고리 조회, 수정, 삭제 기능 구현
 
+### 좋아요
+- 담당자: 이규빈
+- 좋아요 등록, 취소, 조회 기능 구현
+
 ### 파일
  - 담당자: 김성재, 안민재
  - Object Storage, Local Storage 저장, 호출
