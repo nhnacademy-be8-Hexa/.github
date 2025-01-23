@@ -250,7 +250,6 @@ https://www.erdcloud.com/team/gxWqy4hXfkZrX27Sc
 ### 검색
 - 담당자: 이규빈
 - ElasticSearch 적용
-
     - ngram, jaso_tokenizer를 활용한 한글 초성 및 부분검색 기능 추가
     - 제목, 저자, 태그, ISBN를 대상으로 가중치를 부여한 통합 검색 기능을 구현
     - MySQL과 Elasticsearch 간의 실시간 데이터 연동을 위한 AOP 적용
