@@ -1,6 +1,7 @@
 ## Service Introduction
 Spring boot를 이용한 온라인 서점 플랫폼 입니다.
 
+[소개 영상 youtube](https://www.youtube.com/watch?v=xt7sdBXkSVA&ab_channel=%EC%B1%84%EB%85%B8%EC%95%84)
 
 ## Hexa Book Store 주소
 
@@ -29,9 +30,9 @@ Spring boot를 이용한 온라인 서점 플랫폼 입니다.
 
 </div>
 
-## ERD Cloud
-https://www.erdcloud.com/team/gxWqy4hXfkZrX27Sc
 
+## ERD Cloud
+[ERD Cloud](https://www.erdcloud.com/team/gxWqy4hXfkZrX27Sc)
 
 ## CI / CD
 
@@ -40,7 +41,6 @@ https://www.erdcloud.com/team/gxWqy4hXfkZrX27Sc
 > GitHub Actions를 통한 CI를 진행하고, 테스트가 성공 시 Merge가 이루어집니다.
 > feature를 통해 각 인원이 담당한 기능을 각각의 브랜치로 두고, deploy에 Pull Request를 요청한 뒤 미리 지정한 2~3명의 인원이 함께 Code Review 진행, main 브랜치로 병합할 경우 CI/CD가 이루어지도록 Git Flow를 구성했습니다.
 > SonarLint, SonarQube를 통해 정적 코드 분석을 진행하며, 이에 따른 Test Coverage를 저장합니다.
-
 
 
 ## System Architecture (NHN CLOUD)
