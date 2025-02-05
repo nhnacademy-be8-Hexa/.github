@@ -1,7 +1,7 @@
 ## Service Introduction
 Spring boot를 이용한 온라인 서점 플랫폼 입니다.
 
-[소개 영상 youtube](https://www.youtube.com/watch?v=xt7sdBXkSVA&ab_channel=%EC%B1%84%EB%85%B8%EC%95%84)
+[소개 영상 youtube](https://youtu.be/xt7sdBXkSVA?si=EuzyD65yjEDDhUcp)
 
 ## Hexa Book Store 주소
 
