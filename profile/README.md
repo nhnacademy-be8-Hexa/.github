@@ -14,7 +14,7 @@ Spring boot를 이용한 온라인 서점 플랫폼 입니다.
 
 |고은|김성재|김수아|안민재|
 |:---:|:---:|:---:|:---:|
-|<img style="height: 200px; width: 200px;" src="https://avatars.githubusercontent.com/u/133118296?v=4"/>|<img style="height: 200px; width: 200px;" src="https://avatars.githubusercontent.com/u/104749176?v=4"/>|<img style="height: 200px; width: 200px;" src="https://avatars.githubusercontent.com/u/144919371?v=4"/>|<img style="height: 200px; width: 200px;" src="https://avatars.githubusercontent.com/u/180361980?v=4"/>|
+|<img width="200" src="https://avatars.githubusercontent.com/u/133118296?v=4"/>|<img width="200" src="https://avatars.githubusercontent.com/u/104749176?v=4"/>|<img width="200" src="https://avatars.githubusercontent.com/u/144919371?v=4"/>|<img width="200" src="https://avatars.githubusercontent.com/u/180361980?v=4"/>|
 | 쿠폰 | 이미지 저장 <br/> (Object Storage) | CI/CD <br/> (github action) | 민감정보 보안 |
 | NHN Log & Crash | 포인트 <br/> 페이지 구현 | 도서 CRUD <br/> 도서 조회 top 5  | 이미지 저장 <br/> (Local,ImageManager) | 
 | 쿠폰API 명세서 작성| 메세지 큐 <br/> (Rabbit MQ) | 관리자페이지 회원 관리 | Oauth2, JWT(나머지) | 
@@ -22,7 +22,7 @@ Spring boot를 이용한 온라인 서점 플랫폼 입니다.
 
 |이규빈|조나현|조승주|채노아|
 |:---:|:---:|:---:|:---:|
-|<img style="height: 200px; width: 200px;" src="https://avatars.githubusercontent.com/u/121775765?s=400&v=4"/>|<img style="height: 200px; width: 200px;" src="https://avatars.githubusercontent.com/u/95014596?v=4"/>|<img style="height: 200px; width: 200px;" src="https://avatars.githubusercontent.com/u/168888761?s=400&u=fe82e7f81db55f64ac90560a5332e47f706563dc&v=4"/>|<img style="height: 200px; width: 200px;" src="https://avatars.githubusercontent.com/u/104444048?v=4"/>|
+|<img width="200" src="https://avatars.githubusercontent.com/u/121775765?s=400&v=4"/>|<img width="200" src="https://avatars.githubusercontent.com/u/95014596?v=4"/>|<img width="200" src="https://avatars.githubusercontent.com/u/168888761?s=400&u=fe82e7f81db55f64ac90560a5332e47f706563dc&v=4"/>|<img width="200" src="https://avatars.githubusercontent.com/u/104444048?v=4"/>|
 | 도서 검색</br>Elasticsearch | CI/CD </br>(무중단 배포)| 로그인 JWT<br/>Spring Security | 사용자 휴면 전환<br/>(Spring Batch) |
 | Spring Cloud | 장바구니(Redis) | 주문하기 (주문서 작성) | CI/CD<br/>(Shell Script, <br/> Health Check) |
 | 외부 도서 검색, 등록</br>Aladin API | 태그 | 결제, 환불<br/>Toss Payments API | 리뷰(이미지 포함) |
