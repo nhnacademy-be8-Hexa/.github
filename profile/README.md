@@ -14,7 +14,7 @@ Spring boot를 이용한 온라인 서점 플랫폼 입니다.
 
 |고은|김성재|김수아|안민재|
 |:---:|:---:|:---:|:---:|
-|<img width="200" src="https://avatars.githubusercontent.com/u/133118296?v=4"/>|<img width="200" src="https://avatars.githubusercontent.com/u/104749176?v=4"/>|<img width="200" src="https://avatars.githubusercontent.com/u/144919371?v=4"/>|<img width="200" src="https://avatars.githubusercontent.com/u/180361980?v=4"/>|
+|<img width="200" src="https://avatars.githubusercontent.com/u/276989741?v=4"/>|<img width="200" src="https://avatars.githubusercontent.com/u/104749176?v=4"/>|<img width="200" src="https://avatars.githubusercontent.com/u/144919371?v=4"/>|<img width="200" src="https://avatars.githubusercontent.com/u/180361980?v=4"/>|
 | 쿠폰 | 이미지 저장 <br/> (Object Storage) | CI/CD <br/> (github action) | 민감정보 보안 |
 | NHN Log & Crash | 포인트 <br/> 페이지 구현 | 도서 CRUD <br/> 도서 조회 top 5  | 이미지 저장 <br/> (Local,ImageManager) | 
 | 쿠폰API 명세서 작성| 메세지 큐 <br/> (Rabbit MQ) | 관리자페이지 회원 관리 | Oauth2, JWT(나머지) | 
